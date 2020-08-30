@@ -1,9 +1,0 @@
-{
-  "package": "de.deeprobin.amethyst_mod.mixin",
-  "required": true,
-  "compatibilityLevel": "JAVA_8",
-  "mixins": [
-    "MixinDefaultBiomeCreator",
-    "MixinDefaultBiomeFeatures"
-  ]
-}
