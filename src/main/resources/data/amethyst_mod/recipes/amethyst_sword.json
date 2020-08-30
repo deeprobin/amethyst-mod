@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    " X ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "amethyst_mod:amethyst"
+    }
+  },
+  "result": {
+    "item": "amethyst_mod:amethyst_sword",
+    "count": 1
+  }
+}
+

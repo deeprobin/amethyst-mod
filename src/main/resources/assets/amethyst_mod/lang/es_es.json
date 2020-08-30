@@ -1,0 +1,16 @@
+{
+  "item.amethyst_mod.amethyst": "Amatista",
+  "item.amethyst_mod.amethyst_sword": "Espada Amatista",
+  "item.amethyst_mod.amethyst_axe": "Hacha de amatista",
+  "item.amethyst_mod.amethyst_shovel": "Pala de amatista",
+  "item.amethyst_mod.amethyst_pickaxe": "Amatista Pickaxe",
+  "item.amethyst_mod.amethyst_hoe": "Amatista Hoe",
+  "item.amethyst_mod.amethyst_helmet": "Casco de amatista",
+  "item.amethyst_mod.amethyst_chestplate": "Placa torácica de amatista",
+  "item.amethyst_mod.amethyst_leggings": "Mallas de amatista",
+  "item.amethyst_mod.amethyst_boots": "Botas de Amatista",
+  "item.amethyst_mod.amethyst_horse_armor": "Armadura de caballo de amatista",
+  "block.amethyst_mod.amethyst_block": "Bloque de Amatista",
+  "block.amethyst_mod.amethyst_ore": "Mineral de Amatista",
+  "block.amethyst_mod.end_amethyst_ore": "Fin del mineral de amatista"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "amethyst_mod:amethyst"
+    }
+  },
+  "result": {
+    "item": "amethyst_mod:amethyst_block"
+  }
+}
