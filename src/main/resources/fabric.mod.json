@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "amethyst_mod",
+  "version": "${version}",
+
+  "name": "Amethyst Mod",
+  "description": "Adds amethysts and corresponding blocks, weapons and tools",
+  "authors": [
+    "DeepRobin"
+  ],
+  "contact": {
+    "homepage": "https://deeprobin.de/",
+    "sources": "https://github.com/deeprobin/amethyst-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/amethyst_mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "de.deeprobin.amethyst_mod.AmethystMod"
+    ]
+  },
+  "mixins": [
+    "amethyst_mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "*"
+  }
+}

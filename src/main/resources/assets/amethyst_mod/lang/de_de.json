@@ -1,0 +1,16 @@
+{
+  "item.amethyst_mod.amethyst": "Amethyst",
+  "item.amethyst_mod.amethyst_sword": "Amethystschwert",
+  "item.amethyst_mod.amethyst_axe": "Amethystaxt",
+  "item.amethyst_mod.amethyst_shovel": "Amethystschaufel",
+  "item.amethyst_mod.amethyst_pickaxe": "Amethystspitzhacke",
+  "item.amethyst_mod.amethyst_hoe": "Amethysthacke",
+  "item.amethyst_mod.amethyst_helmet": "Amethysthelm",
+  "item.amethyst_mod.amethyst_chestplate": "Amethystbrustplatte",
+  "item.amethyst_mod.amethyst_leggings": "Amethysthose",
+  "item.amethyst_mod.amethyst_boots": "Amethyststiefel",
+  "item.amethyst_mod.amethyst_horse_armor": "Amethystende Pferderüstung",
+  "block.amethyst_mod.amethyst_block": "Amethystblock",
+  "block.amethyst_mod.amethyst_ore": "Amethysterz",
+  "block.amethyst_mod.end_amethyst_ore": "End-Amethysterz"
+}
